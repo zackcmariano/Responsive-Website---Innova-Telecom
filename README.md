@@ -1,2 +1,2 @@
-# Responsive Wensite - Innova Telecom
+# Responsive Website - Innova Telecom
  language | HTML / CSS / JS
